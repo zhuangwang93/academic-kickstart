@@ -19,11 +19,11 @@ summary = "μBPF leverages eBPF to capture TCP metrics from the kernel for perfo
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/alvenwong/MicroBPF"
+external_link = "https://github.com/zhuangwang93/MicroBPF"
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/alvenwong/MicroBPF"
+url_code = "https://github.com/zhuangwang93/MicroBPF"
 url_dataset = ""
 url_slides = ""
 url_video = ""

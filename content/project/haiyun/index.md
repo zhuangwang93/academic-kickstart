@@ -19,11 +19,11 @@ summary = "Haiyun enables NICs to distinguish packets with different service-lev
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/alvenwong/DaBao"
+external_link = "https://github.com/zhuangwang93/DaBao"
 
 # Links (optional).
 url_pdf = ""
-url_code = "https://github.com/alvenwong/DaBao"
+url_code = "https://github.com/zhuangwang93/DaBao"
 url_dataset = ""
 url_slides = ""
 url_video = ""

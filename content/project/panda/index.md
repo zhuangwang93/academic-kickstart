@@ -19,11 +19,11 @@ summary = "Panda emulates shortest job first (SJF) scheduling to optimize the av
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/alvenwong/Panda"
+external_link = "https://github.com/zhuangwang93/Panda"
 
 # Links (optional).
 url_pdf = "files/master_thesis.pdf"
-url_code = "https://github.com/alvenwong/Panda"
+url_code = "https://github.com/zhuangwang93/Panda"
 url_dataset = ""
 url_slides = ""
 url_video = ""
