@@ -6,7 +6,6 @@ publication_types = ["1"]
 abstract = ""
 featured = false
 publication = "*Proceedings of the ACM International Conference on Computing Frontiers(CF)*"
-tags = ["all-to-all routing", "hypersquare torus", "optical network", "routing and wave-length assignment"]
 url_pdf = "files/cf2016.pdf"
 doi = "10.1145/2903150.2903173"
 +++
