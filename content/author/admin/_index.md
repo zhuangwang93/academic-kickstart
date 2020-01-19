@@ -70,7 +70,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/alvenwong"
+  link = "https://github.com/zhuangwang93"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,4 +81,5 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a first-year PhD student in the Department of Computer Science at Rice University, working with [Prof. Ang Chen](https://www.cs.rice.edu/~angchen/). My research interests include computer networks and distributed systems. Before joining Rice, I received M.E degree from ICT, CAS, advised by [Prof. Mingyu Chen](http://asg.ict.ac.cn/cmy) and Prof. Ke Liu.
+I am a first-year PhD student in the Department of Computer Science at Rice University, working with [Prof. T. S. Eugene Ng
+](https://www.cs.rice.edu/~eugeneng/) and [Prof. Ang Chen](https://www.cs.rice.edu/~angchen/). My research interests include computer networks and distributed systems. Before joining Rice, I received M.E degree from ICT, CAS, advised by [Prof. Mingyu Chen](http://asg.ict.ac.cn/cmy) and Prof. Ke Liu.
