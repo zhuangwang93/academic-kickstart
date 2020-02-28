@@ -24,8 +24,8 @@ email = "tmwangzhuang@outlook.com"
 # List (academic) interests or hobbies
 interests = [
   "Networking",
-  "Distributed networks",
-  "Security"
+  "Distributed systems",
+  "Network security"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -81,5 +81,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a first-year PhD student in the Department of Computer Science at Rice University, working with [Prof. T. S. Eugene Ng
-](https://www.cs.rice.edu/~eugeneng/) and [Prof. Ang Chen](https://www.cs.rice.edu/~angchen/). My research interests include computer networks and distributed systems. Before joining Rice, I received M.E degree from ICT, CAS, advised by [Prof. Mingyu Chen](http://asg.ict.ac.cn/cmy) and Prof. Ke Liu.
+I am a first-year PhD student in the Department of Computer Science at Rice University, working with [Prof. T. S. Eugene Ng](https://www.cs.rice.edu/~eugeneng/). My research interests include distributed systems and networks. Before joining Rice, I received M.E. degree from ICT, CAS, advised by [Prof. Mingyu Chen](http://asg.ict.ac.cn/cmy) and Prof. Ke Liu.
